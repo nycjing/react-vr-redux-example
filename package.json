@@ -10,10 +10,13 @@
     "test": "jest"
   },
   "dependencies": {
+    "brew": "0.0.8",
     "ovrui": "^1.1.0",
     "react": "~15.4.1",
     "react-native": "~0.42.0",
+    "react-navigation": "^1.0.0-beta.13",
     "react-redux": "^5.0.5",
+    "react-router-native": "^4.2.0",
     "react-vr": "^1.1.0",
     "react-vr-web": "^1.1.0",
     "redux": "^3.6.0",
